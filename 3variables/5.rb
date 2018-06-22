@@ -1,0 +1,1 @@
+"the first one puts 3, the second one gives an error because x isn't defined outside the scope of the 3. times loop"
